@@ -1,5 +1,5 @@
 # PS1
-This project is developed as part of a university assignment to create a automatic temperature regulation system using a arduino uno R4,a LM35 temperature sensor,a 9v bulb light,a 9v battery and a transistor.The requirements are:
+This project is developed as part of a university assignment to create an automatic temperature regulation system using a arduino uno R4,a LM35 temperature sensor,a 9v bulb light,a 9v battery and a transistor.The requirements are:
 
 A microcontroller-based driving system will be created that will perform the following functions:
 
